@@ -1,0 +1,13 @@
+.width-size{
+max-width: 50%;
+}
+/* .img-card{
+    display: grid;
+    column-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+} */
+.images-card{
+display: flex;
+justify-content: center;
+}
+
